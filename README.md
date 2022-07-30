@@ -23,7 +23,7 @@
 - POST - (22.07.30)
 - PUT과 ObjectMapper - (22.07.30)
 - DELETE - (22.07.30)
-- ResponseEntity
+- ResponseEntity - (22.07.31)
 
 ##### 섹션 4: Spring Boot Validator
 - JSR-380 Bean Validation

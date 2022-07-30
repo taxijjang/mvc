@@ -9,6 +9,5 @@ data class UserRequest(
     var age: Int? = null,
     var email: String? = null,
     var address: String? = null,
-//    @JsonProperty("phone_number")
     var phoneNumber: String? = null,
 )

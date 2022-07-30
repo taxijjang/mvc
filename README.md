@@ -22,7 +22,7 @@
 - GET - (22.07.30)
 - POST - (22.07.30)
 - PUT과 ObjectMapper - (22.07.30)
-- DELETE
+- DELETE - (22.07.30)
 - ResponseEntity
 
 ##### 섹션 4: Spring Boot Validator

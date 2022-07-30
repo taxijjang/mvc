@@ -20,7 +20,7 @@
 
 ##### 섹션 3: REST-API
 - GET - (22.07.30)
-- POST
+- POST - (22.07.30)
 - PUT과 ObjectMapper
 - DELETE
 - ResponseEntity

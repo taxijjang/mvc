@@ -26,7 +26,7 @@
 - ResponseEntity - (22.07.31)
 
 ##### 섹션 4: Spring Boot Validator
-- JSR-380 Bean Validation
+- JSR-380 Bean Validation - (22.07.31)
 - Custom Validation Annotation 만들어서 사용하기
 
 ##### 섹션 5: 예외처리

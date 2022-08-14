@@ -33,8 +33,8 @@ class GetApiController {
     @GetMapping("/get-mapping/path-variable2/{name}/{age}") // GET http://localhost:8080/api/get-mapping/path-variable/{name}
     fun pathVariable2(@PathVariable(value = "name") _name: String, @PathVariable(name = "age") age: Int): String {
         val name = "kotlin"
-        println("${_name}, ${age}")
-        return _name + " " + "" + age
+        println("${name}, ${age}")
+        return name + " " + "" + age
 
     }
 

@@ -29,6 +29,11 @@ class PostApiController {
         println(userRequest)
         // object -> json
         return userRequest
+    }
 
+    @PostMapping("/asdf")
+    fun postTESTObject(@RequestBody userEmail: String): UserRequest {
+        println(userEmail)
+        return UserRequest()
     }
 }
